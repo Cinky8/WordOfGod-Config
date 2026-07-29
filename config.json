@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "notificationsEnabled": true,
-  "globalDailyCap": 1,
+  "globalDailyCap": 20,
   "quietHoursStart": 22,
   "quietHoursEnd": 8,
   "categories": [
