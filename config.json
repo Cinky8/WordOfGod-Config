@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "notificationsEnabled": true,
+  "globalDailyCap": 1,
+  "quietHoursStart": 22,
+  "quietHoursEnd": 8,
+  "categories": [
+    { "id": "streak",           "enabled": true, "dailyCap": 1 },
+    { "id": "dailyVerse",       "enabled": true, "dailyCap": 1 },
+    { "id": "lapsed",           "enabled": true, "dailyCap": 1 },
+    { "id": "chapterNudge",     "enabled": true, "dailyCap": 1 },
+    { "id": "bookNudge",        "enabled": true, "dailyCap": 1 },
+    { "id": "hintsReplenished", "enabled": true, "dailyCap": 1 },
+    { "id": "streakMilestone",  "enabled": true, "dailyCap": 1 }
+  ],
+  "holdoutPercent": -1,
+  "ratePromptEnabled": true,
+  "overrides": []
+}
